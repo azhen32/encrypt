@@ -21,7 +21,6 @@ import org.bouncycastle.jce.provider.BouncyCastleProvider;
 /**
  * 非对称加密算法ElGamal算法组件
  * 非对称算法一般是用来传送对称加密算法的密钥来使用的。相对于RSA算法，这个算法只支持私钥加密公钥解密
- * @author kongqz
  * */
 public class MyElGamal {
     //非对称密钥算法
